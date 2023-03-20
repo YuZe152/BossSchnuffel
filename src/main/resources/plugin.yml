@@ -1,0 +1,8 @@
+name: BossSchnuffel
+version: '${project.version}'
+main: de.yuze.bossschnuffel.BossSchnuffel
+api-version: 1.19
+
+commands:
+  witherboss:
+    description: spawns a wither boss.
